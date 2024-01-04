@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Declarations and Initialization
-parent: C++ 20
-nav_order: 2
+parent: Pointers
+nav_order: 3
 ---
 
 # Pointer Variable Declarations and Initialization
