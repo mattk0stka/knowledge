@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Pointers 
-parent: C++ 20
+title: Declarations and Initialization
+parent: Pointers
 nav_order: 2
 ---
 

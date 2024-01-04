@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Pointers
-parent: C++ 20
+title: C++ 20
 nav_order: 3
+has_children: true
+permalink: /docs/C++/Pointers
 ---
 # Pointers in C++ 20
 
